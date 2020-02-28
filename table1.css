@@ -1,0 +1,37 @@
+.vertical-list-table, tr{
+	float:center;
+	padding-left:5%;
+	padding-right:5%;
+}
+
+.vertival-list-table, td{
+	width:1800px;
+	padding-left:1%;
+	border: 1px solid gray;
+}
+
+.vertival-list-table, th{
+	width:35%;
+	text-align:left;
+	padding-left:2%;
+	background-color:#6f804d;
+	color:white;
+	height:60px;
+}
+
+.txt{
+	margin-left:1%;
+	padding-bottom:1%;
+	padding-top:1%;
+	padding-left:2%;
+	width:95%;
+	height:95%;
+}
+
+.box{
+	padding-left:5%;
+}
+
+span{
+	margin-left:1%;
+}
